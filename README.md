@@ -1,2 +1,2 @@
-# py-
-somethings to help your python game
+# py
+somethings to help your python 
